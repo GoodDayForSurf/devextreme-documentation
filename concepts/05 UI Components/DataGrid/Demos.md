@@ -115,7 +115,7 @@
 
 - [Appearance](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DataGrid/Appearance/)
 
-**Cusomization**
+**Customization**
 
 - [Column](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DataGrid/Column/)
 - [Row](https://js.devexpress.com/Demos/WidgetsGallery/Demo/DataGrid/Row/)
